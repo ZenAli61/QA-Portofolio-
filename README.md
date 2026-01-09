@@ -1,2 +1,2 @@
 # QA-Portofolio-
-Portofolio QA SIA Akuntansi guna menjamin kualitas aplikasi
+Portofolio QA manual sistem informasi Akuntansi guna menjamin kualitas aplikasi
